@@ -1,0 +1,64 @@
+
+[
+     
+    {
+        "thumbName": "background_small_pattern_1",
+        "bigName": "background_big_1",
+        "isPro": false
+    },
+    {
+        "thumbName": "background_small_pattern_2",
+        "bigName": "background_big_2",
+        "isPro": false
+    },
+    {
+        "thumbName": "background_small_pattern_3",
+        "bigName": "background_big_3",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_pattern_4",
+        "bigName": "background_big_4",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_pattern_5",
+        "bigName": "background_big_5",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_pattern_6",
+        "bigName": "background_big_6",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_pattern_7",
+        "bigName": "background_big_7",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_pattern_8",
+        "bigName": "background_big_8",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_pattern_9",
+        "bigName": "background_big_9",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_pattern_10",
+        "bigName": "background_big_10",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_pattern_11",
+        "bigName": "background_big_11",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_pattern_12",
+        "bigName": "background_big_12",
+        "isPro": true
+    }
+]

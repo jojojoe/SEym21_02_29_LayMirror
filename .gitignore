@@ -1,0 +1,7 @@
+LMymLayMirrorEff.xcodeproj/xcuserdata/
+LMymLayMirrorEff.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+LMymLayMirrorEff.xcodeproj/project.xcworkspace/xcuserdata/

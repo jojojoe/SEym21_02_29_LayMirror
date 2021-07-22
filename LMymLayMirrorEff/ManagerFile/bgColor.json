@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+[
+     
+    {
+        "thumbName": "background_small_color_1",
+        "bigName": "#FFFFFF",
+        "isPro": false
+    },
+    {
+        "thumbName": "background_small_color_2",
+        "bigName": "#FFF46F",
+        "isPro": false
+    },
+    {
+        "thumbName": "background_small_color_3",
+        "bigName": "#FFE52D",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_color_4",
+        "bigName": "#FF7743",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_color_5",
+        "bigName": "#FF5200",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_color_6",
+        "bigName": "#FF5854",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_color_7",
+        "bigName": "#FF6196",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_color_8",
+        "bigName": "#EF89FF",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_color_9",
+        "bigName": "#AEFF4B",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_color_10",
+        "bigName": "#5BFED9",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_color_11",
+        "bigName": "#27F1C6",
+        "isPro": true
+    },
+    {
+        "thumbName": "background_small_color_12",
+        "bigName": "#01FFFF",
+        "isPro": true
+    }
+]
+
