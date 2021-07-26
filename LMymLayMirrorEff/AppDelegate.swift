@@ -29,7 +29,8 @@ enum AdjustKey: String {
 
 enum MCorArsConfig: String {
     case HilighCore_BundlId_testBuild = "com.xinyu.test.888888"
-    case HilighCore_BundlId = "com.Piceffect.FansMirror"
+    case HilighCore_BundlId = "com.testbase.www"
+            //"com.Piceffect.FansMirror"
     case HilighCoreCoreLink = "https://hishape.site/new/"
     case flyerDevKey = "2nhkNASc2eUJM2U3WAvYHS"
     case flyerAppID = "1577327943"

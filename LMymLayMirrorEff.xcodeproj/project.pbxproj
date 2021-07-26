@@ -11,7 +11,6 @@
 		EB1E82A2269FD7F500BE6251 /* LMyLayoutTypeSelectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1E82A1269FD7F400BE6251 /* LMyLayoutTypeSelectVC.swift */; };
 		EB1E82A4269FD8AD00BE6251 /* layoutStyleList.json in Resources */ = {isa = PBXBuildFile; fileRef = EB1E82A3269FD8AD00BE6251 /* layoutStyleList.json */; };
 		EB1E82A6269FD94300BE6251 /* LyMmLayoutTypeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1E82A5269FD94300BE6251 /* LyMmLayoutTypeManager.swift */; };
-		EB1E82A8269FEB2800BE6251 /* ITContentUnlockManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1E82A7269FEAA200BE6251 /* ITContentUnlockManager.swift */; };
 		EB1E82AA26A015A500BE6251 /* LMyLayoutEditVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1E82A926A015A500BE6251 /* LMyLayoutEditVC.swift */; };
 		EB1E842726A025DC00BE6251 /* LMyLayoutBgColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1E842626A025DC00BE6251 /* LMyLayoutBgColorView.swift */; };
 		EB1E842926A02EB100BE6251 /* bgColorImg.json in Resources */ = {isa = PBXBuildFile; fileRef = EB1E842826A02EB100BE6251 /* bgColorImg.json */; };
@@ -27,6 +26,7 @@
 		EB1E843D26A1968D00BE6251 /* LMyMirrorPatternBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1E843C26A1968D00BE6251 /* LMyMirrorPatternBar.swift */; };
 		EB1E843F26A1969900BE6251 /* LMyMirrorStickerBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1E843E26A1969900BE6251 /* LMyMirrorStickerBar.swift */; };
 		EB1E844126A1974900BE6251 /* LMyMirrorEditCanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1E844026A1974900BE6251 /* LMyMirrorEditCanvasView.swift */; };
+		EB933E8526A96E9A00874AEC /* ITContentUnlockManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB933E8426A96E9900874AEC /* ITContentUnlockManager.swift */; };
 		EBA355A426A5819800DC0A5C /* IHymStickerTouchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA355A026A5819800DC0A5C /* IHymStickerTouchView.swift */; };
 		EBA355A526A5819800DC0A5C /* IHymTextTouchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA355A126A5819800DC0A5C /* IHymTextTouchView.swift */; };
 		EBA355A626A5819800DC0A5C /* IHymTouchStuffView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA355A226A5819800DC0A5C /* IHymTouchStuffView.swift */; };
@@ -111,7 +111,6 @@
 		EB1E82A1269FD7F400BE6251 /* LMyLayoutTypeSelectVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LMyLayoutTypeSelectVC.swift; sourceTree = "<group>"; };
 		EB1E82A3269FD8AD00BE6251 /* layoutStyleList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = layoutStyleList.json; sourceTree = "<group>"; };
 		EB1E82A5269FD94300BE6251 /* LyMmLayoutTypeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LyMmLayoutTypeManager.swift; sourceTree = "<group>"; };
-		EB1E82A7269FEAA200BE6251 /* ITContentUnlockManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ITContentUnlockManager.swift; path = ../../../../SE21_02_09WIWidgetForIN/WIymWidgetsforIn/WIymWidgetsforIn/WidgProducFolder/WidgetManager/ITContentUnlockManager.swift; sourceTree = "<group>"; };
 		EB1E82A926A015A500BE6251 /* LMyLayoutEditVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LMyLayoutEditVC.swift; sourceTree = "<group>"; };
 		EB1E842626A025DC00BE6251 /* LMyLayoutBgColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LMyLayoutBgColorView.swift; sourceTree = "<group>"; };
 		EB1E842826A02EB100BE6251 /* bgColorImg.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = bgColorImg.json; sourceTree = "<group>"; };
@@ -127,6 +126,7 @@
 		EB1E843C26A1968D00BE6251 /* LMyMirrorPatternBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LMyMirrorPatternBar.swift; sourceTree = "<group>"; };
 		EB1E843E26A1969900BE6251 /* LMyMirrorStickerBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LMyMirrorStickerBar.swift; sourceTree = "<group>"; };
 		EB1E844026A1974900BE6251 /* LMyMirrorEditCanvasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LMyMirrorEditCanvasView.swift; sourceTree = "<group>"; };
+		EB933E8426A96E9900874AEC /* ITContentUnlockManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ITContentUnlockManager.swift; sourceTree = "<group>"; };
 		EBA355A026A5819800DC0A5C /* IHymStickerTouchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IHymStickerTouchView.swift; sourceTree = "<group>"; };
 		EBA355A126A5819800DC0A5C /* IHymTextTouchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IHymTextTouchView.swift; sourceTree = "<group>"; };
 		EBA355A226A5819800DC0A5C /* IHymTouchStuffView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IHymTouchStuffView.swift; sourceTree = "<group>"; };
@@ -396,7 +396,7 @@
 				EBCAC956269EB8ED00BA3CB7 /* LMymCoinMana.swift */,
 				EBCAC958269EB90600BA3CB7 /* DaLMymDataManager.swift */,
 				EB1E82A5269FD94300BE6251 /* LyMmLayoutTypeManager.swift */,
-				EB1E82A7269FEAA200BE6251 /* ITContentUnlockManager.swift */,
+				EB933E8426A96E9900874AEC /* ITContentUnlockManager.swift */,
 				EBCAC95A269EB93D00BA3CB7 /* bgColor.json */,
 				EB1E842826A02EB100BE6251 /* bgColorImg.json */,
 				EBCAC95C269EB97100BA3CB7 /* mirrorSticker.json */,
@@ -680,7 +680,6 @@
 				EBA355A726A5819800DC0A5C /* IHymAddonManager.swift in Sources */,
 				EBCAC99F269EBB4F00BA3CB7 /* InnLoginChallengeView.swift in Sources */,
 				EBCAC9B4269EBB5000BA3CB7 /* InnLoginViewController.swift in Sources */,
-				EB1E82A8269FEB2800BE6251 /* ITContentUnlockManager.swift in Sources */,
 				EBCAC9C6269EBD5E00BA3CB7 /* UIKit+Simply.swift in Sources */,
 				EB1E843126A139E600BE6251 /* LMyLayoutWaterMarkBar.swift in Sources */,
 				EBCAC93C269E9E5900BA3CB7 /* ViewController.swift in Sources */,
@@ -720,6 +719,7 @@
 				EBA355C126A581D800DC0A5C /* MaskConfigManager.m in Sources */,
 				EBCAC999269EBB4F00BA3CB7 /* VC+Route.swift in Sources */,
 				EBCAC9B5269EBB5000BA3CB7 /* HightLigtingUserManager.swift in Sources */,
+				EB933E8526A96E9A00874AEC /* ITContentUnlockManager.swift in Sources */,
 				EBA355C326A581D800DC0A5C /* TouchStuffView.m in Sources */,
 				EBCAC9C4269EBCF500BA3CB7 /* LyMmExtension.swift in Sources */,
 				EBCAC99D269EBB4F00BA3CB7 /* StringExtension.swift in Sources */,
